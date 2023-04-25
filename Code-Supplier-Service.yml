@@ -9,7 +9,8 @@ css:
     src: na #rs service does not need code generation service
     projectName: na
 
-cssTempDir: ${HOME}/csstempdir
+#cssTempDir: ${HOME}/csstempdir
+cssTempDir: csstempdir
 zipDir: ${cssTempDir}/zips
 codeDir: ${cssTempDir}/codes
 zipOutDir: ${cssTempDir}/zipOut
