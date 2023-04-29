@@ -6,9 +6,12 @@ css:
     src: https://github.com/aetana/SharedSS/archive/refs/heads/main.zip
     projectName: SharedSS-main
   rs:
-    src: na #rs service does not need code generation service
-    projectName: na
-
+    src: https://github.com/danielBogale/rs-service/archive/refs/heads/main.zip
+    projectName: rs-service-main
+  dis:
+    src: https://github.com/taingy-srun/data-input-service/archive/refs/heads/main.zip
+    projectName: data-input-service-main
+    
 #cssTempDir: ${HOME}/csstempdir
 cssTempDir: csstempdir
 zipDir: ${cssTempDir}/zips
