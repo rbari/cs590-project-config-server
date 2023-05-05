@@ -1,15 +1,15 @@
 css:
   cds:
-    src: https://github.com/kuylim/sa-cds/archive/refs/heads/main.zip
+    src: https://github.com/rbari/sa-cds/archive/refs/heads/main.zip
     projectName: sa-cds-main #reponame-branchname
   ss:
-    src: https://github.com/aetana/SharedSS/archive/refs/heads/main.zip
+    src: https://github.com/rbari/SharedSS/archive/refs/heads/main.zip
     projectName: SharedSS-main
   rs:
-    src: https://github.com/danielBogale/rs-service/archive/refs/heads/main.zip
+    src: https://github.com/rbari/rs-service/archive/refs/heads/main.zip
     projectName: rs-service-main
   dis:
-    src: https://github.com/taingy-srun/data-input-service/archive/refs/heads/main.zip
+    src: https://github.com/rbari/data-input-service/archive/refs/heads/main.zip
     projectName: data-input-service-main
     
 #cssTempDir: ${HOME}/csstempdir
